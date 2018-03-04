@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "607864700074",
+    "firebase_url": "https://live-traking-197019.firebaseio.com",
+    "project_id": "live-traking-197019",
+    "storage_bucket": "live-traking-197019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607864700074:android:acdb0209ef7d7caf",
+        "android_client_info": {
+          "package_name": "com.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607864700074-2fcusbq2plf27hlo009a80agq1iru9fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCKKbhgal-HUmdZS9f9rFeglZNfpOm_VY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
